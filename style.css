@@ -1,0 +1,8 @@
+body {
+    background-color: aqua;
+}
+
+p {
+    font-size: 1.5em;
+    text-shadow:  2px 2px #ff0000;
+}
